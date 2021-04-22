@@ -1,0 +1,42 @@
+newmtl 0
+Ka 1 1 1
+Kd 1 1 1
+d 1
+illum 1
+Ns 0
+map_Kd texture_0_0.jpg
+newmtl 1
+Ka 1 1 1
+Kd 1 1 1
+d 1
+illum 1
+Ns 0
+map_Kd texture_0_1.jpg
+newmtl 2
+Ka 1 1 1
+Kd 1 1 1
+d 1
+illum 1
+Ns 0
+map_Kd texture_0_2.jpg
+newmtl 3
+Ka 1 1 1
+Kd 1 1 1
+d 1
+illum 1
+Ns 0
+map_Kd texture_0_3.jpg
+newmtl 4
+Ka 1 1 1
+Kd 1 1 1
+d 1
+illum 1
+Ns 0
+map_Kd texture_0_4.jpg
+newmtl 5
+Ka 1 1 1
+Kd 1 1 1
+d 1
+illum 1
+Ns 0
+map_Kd texture_0_5.jpg
