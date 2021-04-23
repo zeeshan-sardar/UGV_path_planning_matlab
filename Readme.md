@@ -6,7 +6,9 @@ First of all, the 3D model is loaded into Matlab workspace using `loadawobj` fun
 
 ## Testing
 The repository contains the main file named `main.m` which does everything from loading the model to finding the path and displaying that on the occupancy grid. There are many helper functions as well which are called in this main file.  
-The figure below shows the path computed by A* on the occupancy gird.
+The figure below shows the path computed by A* on the occupancy gird with 30 degree threshold.
 
-![Path Planning](./figures/path_planning.png)
+![Path Planning](./figures/path_planning.png)   
 
+Figure below is a zoomed version of path at 20 degrees threshold.
+![Path Planning](./figures/zoomed_20_deg.png)
